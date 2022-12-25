@@ -1,9 +1,23 @@
 .calc-row {
     height: 100vh;
     font-family: 'Share Tech Mono', monospace;
+    
 }
 
 .input-window {
     text-align: end;
     font-size: x-large;
+    
 }
+#btn_clr {
+    background-color: red;
+    color: aliceblue;
+}
+.btn-outline-primary {
+    background-color: rgb(34, 82, 213);
+    color: aliceblue;
+}
+div.card-body {
+    background-color: black;
+}
+
